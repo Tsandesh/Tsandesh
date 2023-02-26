@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandesh Thapa</h1>
-<h3 align="center">A aspiring developer from Nepal 🇳🇵🇳🇵🇳🇵</h3>
+<h3 align="center">An aspiring developer from Nepal 🇳🇵🇳🇵🇳🇵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsandesh&label=Profile%20views&color=0e75b6&style=flat" alt="tsandesh" /> </p>
 
